@@ -1,4 +1,3 @@
-import React from "react";
 import { IUser } from "../types/types";
 
 interface UserItemProps {
